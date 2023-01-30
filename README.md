@@ -1,6 +1,7 @@
 ## Trainee Web Instructor Skill Evaluation Task Project
 
 # Project Name : Power Hack
+## [Live Link](https://nimble-daffodil-879f7e.netlify.app/)
 
 ### Tech Used :
 * React
